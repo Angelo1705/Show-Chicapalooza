@@ -41,3 +41,20 @@ label {
 .modal-content button:hover {
     background-color: #e91e63;
 }
+
+.ticket {
+    background-color: gold;
+    align-items: center;
+    width: 70%;
+    text-align: center;
+    margin: 20%;
+}
+
+
+.body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    background-color: blue;
+}
